@@ -4,4 +4,8 @@ I am happpy that I am learning
 
 This is the change from my-first-branch
 
+<<<<<<< HEAD
 Hello main branch!
+=======
+Hello from my-first-branch
+>>>>>>> my-first-branch
